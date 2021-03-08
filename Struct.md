@@ -28,9 +28,11 @@ dopo aver chiamato le librerie *#include<stdio>*
 
 la struct ha un comportamento simile a quello di un vettore
 char v[5] = {'a', 'v', 'g', 'h', 'k'}
-| a  | v  | g  | h  |  k |
+
+| a | v | g | h | k |
 |---|---|---|---|---|
-| 0  | 1  | 2 | 3  | 4 |
+| 0 | 1 | 2 | 3 | 4 |
+
 printf("V[0]: %c", V[0]);
 
 ***
